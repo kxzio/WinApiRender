@@ -1,0 +1,21 @@
+#pragma once
+//includes
+#include <vector> 
+#include <sstream>
+#include <time.h>
+#include <iostream>
+#include <sys/types.h>
+#include <iostream>
+#include <Windows.h>
+#include <fstream>
+#include <iomanip>
+#include <cctype>
+#include <windows.h>
+#include <stdio.h>
+#include <tchar.h>
+#include <psapi.h>
+#include <strsafe.h>
+#include <exception>
+#include <typeinfo>
+#include <stdexcept>
+#include <filesystem>
